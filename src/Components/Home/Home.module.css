@@ -1,0 +1,14 @@
+.firstSection{
+    background-image: url(../../Img/background.jpeg);
+    background-position: center center;
+    background-size: cover;
+    color: #6c757d !important;
+}
+
+.sectionLayer{
+    background-color: #1c1e22;
+}
+
+.browsebtn:hover{
+    color: #fff !important;
+}

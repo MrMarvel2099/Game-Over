@@ -1,3 +1,5 @@
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +7,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #212529 !important;
+  color: #6c757d !important;
+}
+.navStyle{
+  z-index: 99999;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.homecard{
+  width: 18rem;
+  /* height: 16rem; */
+  background-color:  #343a40;
+}
+.homecard:hover{
+  scale: 1.05;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+

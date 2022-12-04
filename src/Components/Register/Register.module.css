@@ -1,0 +1,11 @@
+
+.poster{
+    background-image: url(../../Img/poster.jpeg);
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+.formStyle{
+    background-color: #343a40;
+}
+
